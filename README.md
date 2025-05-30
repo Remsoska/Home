@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@
         
     </main>
     <footer>
-        "Я буду кушац" 2025. Сделал сайт Баянов Артём 
+        "Я буду кушац" 2025. Сделал сайт Баянов Артём
     </footer>
 </body>
 </html>
